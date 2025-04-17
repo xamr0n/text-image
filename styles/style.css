@@ -13,7 +13,7 @@ body, html {
 
 .portrait {
   font-family: "Impact";
-  font-size: 11px;
+  font-size: 13px;
   line-height: 9px;
   background: url("https://github.com/xamr0n/webslide-portfolio/blob/main/static/images/xAm.jpg?raw=true")
     fixed top no-repeat;
